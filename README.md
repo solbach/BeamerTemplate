@@ -3,7 +3,13 @@ _Latex Beamer Template_ as used for most of my presentations
 
 Feel free to change and modify. Change requests are welcome too.
 
-# To Do
-* Video embedding
-* Pseudocode embedding
-* Different color schemes
+# Functionality
+* [x] Simple design
+* [x] Navigation bar
+* [x] Standard examples
+* [x] Table of Contents
+* [x] References
+* [x] Appendix
+* [ ] Video embedding
+* [ ] Pseudocode embedding
+* [ ] Different color schemes
