@@ -3,6 +3,9 @@ _Latex Beamer Template_ as used for most of my presentations
 
 Feel free to change and modify. Change requests are welcome too.
 
+![Screenshot](screenshot.png)
+
+
 ## Functionality
 * [x] Simple design
 * [x] Navigation bar
