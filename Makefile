@@ -7,6 +7,8 @@ all:
 clean:
 	mkdir tmp
 	cp *.tex tmp/
+	cp *.bib tmp/
+	cp *.pdf tmp/
 	rm templ*
 	mv tmp/* .
 	rm -r tmp
