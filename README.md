@@ -14,6 +14,10 @@ Feel free to change and modify. Change requests are welcome too.
 * [x] References
 * [x] Appendix
 * [x] Makefile
-* [ ] Video embedding
+* [x] Video embedding
 * [ ] Pseudocode embedding
 * [ ] Different color schemes
+
+## Useful
+* Convert AVI to MP4
+	* ffmpeg -i Sample.avi -vcodec libx264 Sample.mp4
