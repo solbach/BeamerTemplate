@@ -21,4 +21,4 @@ Feel free to change and modify. Change requests are welcome too.
 ## Useful
 * Convert AVI to MP4
 	* ffmpeg -i Sample.avi -vcodec libx264 Sample.mp4
-* [Link to pseudocode commands](https://en.wikibooks.org/wiki/LaTeX/Algorithms)
+* [Link to pseudocode commands](https://en.wikibooks.org/wiki/LaTeX/Algorithms#Typesetting_using_the_algorithmic_package)
