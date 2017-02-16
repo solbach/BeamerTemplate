@@ -7,6 +7,7 @@
 
 \usepackage{appendixnumberbeamer}
 \usepackage{multimedia}
+\usepackage{algorithm,algorithmic}
 
 \addtobeamertemplate{navigation symbols}{}{%
     \usebeamerfont{footline}%
@@ -152,6 +153,25 @@ Example Video
 \begin{center}
   \movie[height = 0.6\textheight, width = 0.8\textwidth, poster, showcontrols] {}{vid/8_polygons.mp4}
 \end{center}
+\end{frame}
+
+\begin{frame}
+
+  \frametitle{Pseudocode}
+
+\begin{algorithm}[H]
+  \begin{algorithmic}[1]
+    \FOR{$i=1$ to $N$}
+    \STATE Take stereo-image
+    \IF{$\delta < threshold$}
+      \RETURN
+    \ENDIF
+    \STATE Move camera
+    \ENDFOR
+  \end{algorithmic}
+  \caption{pseudocode for something }
+\end{algorithm}
+
 \end{frame}
 
 %Bibliography

@@ -15,7 +15,7 @@ Feel free to change and modify. Change requests are welcome too.
 * [x] Appendix
 * [x] Makefile
 * [x] Video embedding
-* [ ] Pseudocode embedding
+* [x] Pseudocode embedding
 * [ ] Different color schemes
 
 ## Useful
