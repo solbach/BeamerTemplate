@@ -16,9 +16,7 @@ Feel free to change and modify. Change requests are welcome too.
 * [x] Makefile
 * [x] Video embedding
 * [x] Pseudocode embedding
-* [ ] Different color schemes
+* [x] Customizable footer
 
 ## Useful
-* Convert AVI to MP4
-	* ffmpeg -i Sample.avi -vcodec libx264 Sample.mp4
 * [Link to pseudocode commands](https://en.wikibooks.org/wiki/LaTeX/Algorithms#Typesetting_using_the_algorithmic_package)
